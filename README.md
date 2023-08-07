@@ -11,8 +11,6 @@ Welcome to the README for the Live Language Translator project. This project inv
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
