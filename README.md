@@ -23,7 +23,7 @@ Welcome to the README for the Live Language Translator project. This project inv
 
 ## Demo
 
-Experience the live demo of the Language Translator Project [here](https://your-translator-demo-link.com).
+Experience the live demo of the Language Translator Project [here](http://127.0.0.1:5500/index.html).
 
 ## Getting Started
 
